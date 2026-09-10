@@ -7,7 +7,7 @@
 <x-navbar />
 
 
-
+{{-- Pricing Section --}}
 <!-- Hero Section -->
 <x-hero />
 <x-about-section />
