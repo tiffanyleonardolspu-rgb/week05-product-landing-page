@@ -62,7 +62,7 @@
 
                 </a>
 
-
+<!-- MNML.MN Navigation Component -->
 
                 <a href="#contact"
                    class="text-gray-400 px-5 py-2 rounded-lg text-sm uppercase tracking-widest hover:text-white hover:bg-white/10 transition">
