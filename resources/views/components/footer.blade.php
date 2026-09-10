@@ -1,4 +1,5 @@
-<footer id="contact" class="bg-black text-white py-16">
+<!-- MNML.MN Footer -->
+ <footer id="contact" class="bg-black text-white py-16">
 
     <div class="max-w-7xl mx-auto px-6">
 
