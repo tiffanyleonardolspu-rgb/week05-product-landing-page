@@ -1,4 +1,5 @@
-<div class="bg-white text-black rounded-3xl p-8 shadow-lg hover:shadow-xl transition text-center">
+<!-- Customer Testimonial Card -->
+ <div class="bg-white text-black rounded-3xl p-8 shadow-lg hover:shadow-xl transition text-center">
 
 
     <!-- Customer Image -->
