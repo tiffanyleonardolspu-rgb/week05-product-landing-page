@@ -11,7 +11,7 @@
 <!-- Hero Section -->
 <x-hero />
 <x-about-section />
-
+{{-- MNML.MN Landing Page Layout --}}
 
 <!-- Features Section -->
 
